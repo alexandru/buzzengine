@@ -1,4 +1,4 @@
-package buzzengine.db
+package buzzengine.services.rdbms
 
 import java.sql.Timestamp
 import java.util.UUID
